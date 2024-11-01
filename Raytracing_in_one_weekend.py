@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 14 11:19:32 2021
-
-@author: Mahshid
-"""
-
 ### introducing Hit_Record as a Dictionary (Structure)
 import numpy as np
 from numpy import linalg as LA
